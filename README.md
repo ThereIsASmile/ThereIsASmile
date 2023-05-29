@@ -2,10 +2,11 @@
 
 Oh hello!
 
-- Soon to be bootcamp grad! 
+- Soon to be a full stack bootcamp grad in MERN and Python! 
 - Making a career switch from education to tech!
 Would love to work in ed tech but am open to working on fun and interactive projects as well! 
 - My background is in art, education, and graphic design. 
+- I love Graphic Web Design!
 
 
 [![My Skills](https://skillicons.dev/icons?i=ai,html,css,figma,bootstrap,js,nodejs,react,express,postman,mongo,python,flask,github,ps,pr,php,mysql&perline=9)](https://skillicons.dev)
