@@ -1,3 +1,5 @@
+
+
 Oh hello!
 
 - Soon to be bootcamp grad! 
@@ -6,6 +8,7 @@ Would love to work in ed tech but am open to working on fun and interactive proj
 - My background is in art, education, and graphic design. 
 
 
+[![My Skills](https://skillicons.dev/icons?i=ai,html,css,figma,bootstrap,js,nodejs,react,express,postman,mongo,python,flask,github,ps,pr,php,mysql&perline=9)](https://skillicons.dev)
 <!--
 **ThereIsASmile/ThereIsASmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
