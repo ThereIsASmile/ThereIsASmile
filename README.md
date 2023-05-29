@@ -1,4 +1,10 @@
-### Hi there 👋
+Oh hello!
+
+- Soon to be bootcamp grad! 
+- Making a career switch from education to tech!
+Would love to work in ed tech but am open to working on fun and interactive projects as well! 
+- My background is in art, education, and graphic design. 
+
 
 <!--
 **ThereIsASmile/ThereIsASmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
