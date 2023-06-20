@@ -1,6 +1,6 @@
 
 
-Oh hello!
+Grahpic Web Designer!
 
 - Soon to be a full stack bootcamp grad in MERN and Python! 
 - Making a career switch from education to tech!
