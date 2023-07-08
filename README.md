@@ -10,6 +10,14 @@ Would love to work in ed tech but am open to working on fun and interactive proj
 
 
 [![My Skills](https://skillicons.dev/icons?i=ai,html,css,figma,bootstrap,js,nodejs,react,express,postman,mongo,python,flask,github,ps,pr,php,mysql&perline=9)](https://skillicons.dev)
+
+- 🔭 I’m currently working on ...
+  - a collaborative project with Stacey and Rafael! It's called School Supplies and is an app for teachers to list school supplies for students and 
+    parents to view and check off.
+  - Little Vectors and education app for 3rd - 5th graders!
+- 🌱 I’m currently learning ...
+  - to make pixel perfect designs using css to style mobile first to desktop screen sizes!
+  
 <!--
 **ThereIsASmile/ThereIsASmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
