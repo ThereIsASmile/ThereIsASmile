@@ -16,7 +16,7 @@ Would love to work in ed tech but am open to working on fun and interactive proj
     parents to view and check off.
   - Little Vectors an education app for 3rd - 5th graders!
 - 🌱 I’m currently learning ...
-  - to make pixel perfect designs using css to style mobile first to desktop screen sizes!
+  - to make pixel perfect designs using css to style with mobile first to desktop screen sizes!
   
 <!--
 **ThereIsASmile/ThereIsASmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
