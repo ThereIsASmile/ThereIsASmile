@@ -14,7 +14,7 @@ Would love to work in ed tech but am open to working on fun and interactive proj
 - 🔭 I’m currently working on ...
   - a collaborative project with Stacey and Rafael! It's called School Supplies and is an app for teachers to list school supplies for students and 
     parents to view and check off.
-  - Little Vectors and education app for 3rd - 5th graders!
+  - Little Vectors an education app for 3rd - 5th graders!
 - 🌱 I’m currently learning ...
   - to make pixel perfect designs using css to style mobile first to desktop screen sizes!
   
